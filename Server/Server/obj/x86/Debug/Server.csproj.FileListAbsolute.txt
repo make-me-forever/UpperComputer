@@ -1,0 +1,11 @@
+E:\Code\github\C#\Nice\Server\Server\bin\Debug\Server.exe
+E:\Code\github\C#\Nice\Server\Server\bin\Debug\Server.pdb
+E:\Code\github\C#\Nice\Server\Server\obj\x86\Debug\Server.Client.resources
+E:\Code\github\C#\Nice\Server\Server\obj\x86\Debug\Server.Server.resources
+E:\Code\github\C#\Nice\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+E:\Code\github\C#\Nice\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+E:\Code\github\C#\Nice\Server\Server\obj\x86\Debug\Server.exe
+E:\Code\github\C#\Nice\Server\Server\obj\x86\Debug\Server.pdb
+E:\Code\github\C#\Nice\Server\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Code\github\C#\Nice\UpperComputer\Server\Server\obj\x86\Debug\Server.exe
+E:\Code\github\C#\Nice\UpperComputer\Server\Server\obj\x86\Debug\Server.pdb
